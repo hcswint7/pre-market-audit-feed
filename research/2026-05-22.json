@@ -1,0 +1,425 @@
+{
+  "metadata": {
+    "date": "2026-05-22",
+    "day_of_week": "Friday",
+    "generated_at": "2026-05-22T07:16:00-05:00",
+    "agent": "Perplexity Workflow A",
+    "account_state": {
+      "open_positions": 0,
+      "trades_this_week": 0,
+      "weekly_cap_remaining": 3,
+      "simulated_equity": 10000
+    },
+    "watchlist_tickers": ["OKLO"],
+    "watchlist_note": "OKLO earnings catalyst 5/12/2026 already passed - no active catalyst today"
+  },
+  "tickers": [
+    {
+      "symbol": "BJ",
+      "catalyst": "BJ's Wholesale Club reports Q1 FY2027 earnings before market open Friday May 22, 2026 at 8:30 AM ET. Analysts expect EPS of $1.04 and revenue of $5.43B. The company is a membership warehouse operator competing with Costco and Sam's Club. This is a confirmed earnings date catalyst with immediate market impact potential. Recent analyst activity shows 14 analysts with Buy consensus and $108.07 price target, implying 16% upside from current ~$93 level.",
+      "sector": "Consumer",
+      "sector_momentum": "Neutral - Consumer discretionary sector showing mixed performance in May 2026",
+      "fundamentals": {
+        "market_cap": "~$12.5B",
+        "avg_daily_volume": "~1.5M shares",
+        "pe_ratio": "~21x",
+        "revenue_growth_yoy": "Mid-single digit expected",
+        "last_earnings": "Beat in Q4 FY2026"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above",
+        "price_vs_200d_ma": "Above",
+        "52w_range": "$74-$120",
+        "premarket_volume": "Awaiting open",
+        "current_price": "$92.89"
+      },
+      "price_levels": {
+        "entry": 93.00,
+        "stop": 86.00,
+        "target": 107.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": true
+      },
+      "conviction_score": 7,
+      "thesis": "Confirmed earnings catalyst before open; consumer strength vs inflation headwinds balanced risk",
+      "watchlist_priority": false
+    },
+    {
+      "symbol": "NVDA",
+      "catalyst": "NVIDIA is the top holding (14.78%) in XLK Technology Select Sector SPDR ETF, which posted +5.78% gains last week (week of May 17, 2026) leading all S&P sectors. Semiconductors represent 47.92% of XLK holdings. NVDA benefiting from continued AI infrastructure buildout momentum. No specific near-term earnings catalyst (next earnings estimated July-August 2026), but sector rotation into tech after recent CPI selloff on May 17 creates entry opportunity. Analyst consensus remains Strong Buy with $294 median price target vs $220 current.",
+      "sector": "Tech",
+      "sector_momentum": "Strong - XLK +5.78% last week, best performing S&P sector",
+      "fundamentals": {
+        "market_cap": "~$5.4T",
+        "avg_daily_volume": "~45M shares",
+        "pe_ratio": "~38x forward",
+        "revenue_growth_yoy": "Strong AI-driven growth",
+        "last_earnings": "Beat expectations Q1 2026"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above",
+        "price_vs_200d_ma": "Above",
+        "52w_range": "$100-$250",
+        "premarket_volume": "N/A",
+        "current_price": "$220.49"
+      },
+      "price_levels": {
+        "entry": 221.00,
+        "stop": 205.00,
+        "target": 253.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction_score": 8,
+      "thesis": "Sector momentum leader; AI infrastructure theme intact despite May 17 CPI selloff recovery play",
+      "watchlist_priority": false
+    },
+    {
+      "symbol": "AAPL",
+      "catalyst": "Apple is the #2 holding in XLK (12.14% weight) benefiting from same tech sector rotation that drove XLK +5.78% last week. Company reported strong Q2 FY2026 results April 30 with revenue $111.2B (+17% YoY), iPhone hit March quarter record $56.99B, Services all-time record $30.98B. Stock up ~5% on that report. Apple in discussions with Intel and Samsung to produce chips in U.S. fabs (reported May 5, 2026), addressing supply chain diversification. No earnings catalyst imminent (next report July 2026).",
+      "sector": "Tech",
+      "sector_momentum": "Strong - XLK +5.78% last week",
+      "fundamentals": {
+        "market_cap": "~$4.7T",
+        "avg_daily_volume": "~50M shares",
+        "pe_ratio": "~28x forward",
+        "revenue_growth_yoy": "+17% Q2 FY2026",
+        "last_earnings": "Beat Q2 FY2026, April 30"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above",
+        "price_vs_200d_ma": "Above",
+        "52w_range": "$200-$310",
+        "premarket_volume": "N/A",
+        "current_price": "$304.99"
+      },
+      "price_levels": {
+        "entry": 305.00,
+        "stop": 283.00,
+        "target": 349.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction_score": 7,
+      "thesis": "Tech sector momentum play; strong recent earnings; supply chain diversification positive",
+      "watchlist_priority": false
+    },
+    {
+      "symbol": "MCHP",
+      "catalyst": "Microchip Technology featured as top stock pick for week of May 18, 2026 by Zacks Research with Rank #1 Strong Buy rating. Stock up 55% YTD. Q4 FY2026 earnings (reported May 7) beat expectations: $0.57 EPS vs $0.39 est, revenue $1.31B vs $1.26B est (+35.1% YoY). Company serving automotive, aerospace, defense sectors with strong demand. Forward estimates: 30% sales growth FY2026, 15% FY2027; 62% EPS growth FY2026, 27% FY2027. 20 analysts with Buy consensus, $100.75 median target vs ~$93 current. Semiconductor momentum despite May 17 sector selloff.",
+      "sector": "Tech",
+      "sector_momentum": "Strong - part of semiconductor 47.92% weight in XLK which led sectors +5.78%",
+      "fundamentals": {
+        "market_cap": "~$49.7B",
+        "avg_daily_volume": "~2.5M shares",
+        "pe_ratio": "~434x trailing (distorted), forward more reasonable",
+        "revenue_growth_yoy": "+35.1% Q4 FY2026",
+        "last_earnings": "Beat Q4 FY2026, May 7"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above",
+        "price_vs_200d_ma": "Well above",
+        "52w_range": "$65-$95",
+        "premarket_volume": "N/A",
+        "current_price": "$92.98"
+      },
+      "price_levels": {
+        "entry": 93.00,
+        "stop": 86.00,
+        "target": 107.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": true,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction_score": 8,
+      "thesis": "Analyst strong buy, recent earnings beat, semiconductor demand in automotive/aerospace/defense verticals",
+      "watchlist_priority": false
+    },
+    {
+      "symbol": "XOM",
+      "catalyst": "Exxon Mobil is top holding (22.45%) in XLE Energy Select Sector SPDR ETF which posted +3.79% last week, 2nd best S&P sector. XLE moved above 50-day MA on May 14 with 88% odds of continued upward trend per technical analysis. Oil prices stabilizing after geopolitical tensions. XOM analyst consensus Buy, $162 median target vs $155 current. Stock rose 7% week ending March 27 on energy momentum. 20 analysts rate Buy with target implying 5% upside but model suggests $196 (~15% upside over 3 years).",
+      "sector": "Energy",
+      "sector_momentum": "Strong - XLE +3.79% last week, 2nd best sector",
+      "fundamentals": {
+        "market_cap": "~$650B",
+        "avg_daily_volume": "~18M shares",
+        "pe_ratio": "~12x forward",
+        "revenue_growth_yoy": "Stable integrated model",
+        "last_earnings": "Q1 2026 solid"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above (crossed May 14)",
+        "price_vs_200d_ma": "Above",
+        "52w_range": "$140-$171",
+        "premarket_volume": "N/A",
+        "current_price": "$155.29"
+      },
+      "price_levels": {
+        "entry": 156.00,
+        "stop": 145.00,
+        "target": 178.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction_score": 7,
+      "thesis": "Energy sector leader, integrated model resilience, technical breakout above 50d MA",
+      "watchlist_priority": false
+    },
+    {
+      "symbol": "CVX",
+      "catalyst": "Chevron is 2nd largest holding (16.43%) in XLE which gained +3.79% last week. CVX delivered +41% return over past 12 months matching sector performance. Company has 39-year consecutive dividend increase streak, integrated model cushions commodity price swings better than pure E&P peers like COP. Oil price environment supportive with geopolitical premium. Defensive energy play with income component. Analyst coverage positive on integrated model durability.",
+      "sector": "Energy",
+      "sector_momentum": "Strong - XLE +3.79% last week",
+      "fundamentals": {
+        "market_cap": "~$290B",
+        "avg_daily_volume": "~8M shares",
+        "pe_ratio": "~11x forward",
+        "revenue_growth_yoy": "Stable",
+        "last_earnings": "Solid Q1 2026"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above",
+        "price_vs_200d_ma": "Above",
+        "52w_range": "$130-$165",
+        "premarket_volume": "N/A",
+        "current_price": "~$160"
+      },
+      "price_levels": {
+        "entry": 160.00,
+        "stop": 149.00,
+        "target": 182.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction_score": 7,
+      "thesis": "Integrated energy model, 39-year dividend streak, sector momentum beneficiary",
+      "watchlist_priority": false
+    },
+    {
+      "symbol": "COP",
+      "catalyst": "ConocoPhillips is 3rd largest holding (6.87%) in XLE benefiting from +3.79% sector gain last week. Pure-play E&P model vs integrated XOM/CVX. Stock delivered +41% return past 12 months. However, Q1 2026 earnings miss noted ($1.02 EPS, realized prices fell 19% to $42.46/BOE) showing commodity exposure risk vs integrated peers. Current oil price recovery supportive. More volatile than XOM/CVX but leveraged to oil price upside.",
+      "sector": "Energy",
+      "sector_momentum": "Strong - XLE +3.79% last week",
+      "fundamentals": {
+        "market_cap": "~$145B",
+        "avg_daily_volume": "~7M shares",
+        "pe_ratio": "~10x forward",
+        "revenue_growth_yoy": "Commodity dependent",
+        "last_earnings": "Miss Q1 2026"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above",
+        "price_vs_200d_ma": "Above",
+        "52w_range": "$95-$130",
+        "premarket_volume": "N/A",
+        "current_price": "$120.55"
+      },
+      "price_levels": {
+        "entry": 121.00,
+        "stop": 112.00,
+        "target": 139.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": true,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction_score": 5,
+      "thesis": "E&P leverage to oil prices, sector momentum, but recent earnings miss and commodity volatility risk",
+      "watchlist_priority": false
+    },
+    {
+      "symbol": "LLY",
+      "catalyst": "Eli Lilly is top holding (14.07%) in XLV Healthcare Select Sector SPDR ETF which posted +1.32% last week. LLY leading GLP-1 weight loss drug market with strong momentum. Q1 2026 results (reported April 30) drove stock higher; company raised full-year guidance to $82-85B revenue and $35.50-37.00 EPS vs prior $80-83B and $33.50-35.00. Analysts project $1,150-$1,250 by end 2026 (15-25% upside). Stock currently ~$953. Valuation model suggests $1,373 by 12/31/28 (+44% from current). FDA approval pipeline robust for 2026.",
+      "sector": "Healthcare",
+      "sector_momentum": "Positive - XLV +1.32% last week",
+      "fundamentals": {
+        "market_cap": "~$900B",
+        "avg_daily_volume": "~3M shares",
+        "pe_ratio": "~34x forward",
+        "revenue_growth_yoy": "Strong double-digit",
+        "last_earnings": "Beat Q1 2026, April 30"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above",
+        "price_vs_200d_ma": "Above",
+        "52w_range": "$850-$1,056",
+        "premarket_volume": "N/A",
+        "current_price": "$953"
+      },
+      "price_levels": {
+        "entry": 955.00,
+        "stop": 885.00,
+        "target": 1095.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction_score": 8,
+      "thesis": "GLP-1 market leader, raised 2026 guidance, strong analyst targets, healthcare sector momentum",
+      "watchlist_priority": false
+    },
+    {
+      "symbol": "JNJ",
+      "catalyst": "Johnson & Johnson is 2nd largest holding (10.52%) in XLV healthcare ETF which posted +1.32% gain last week. JNJ reported Q4 2025 beat (revenue $24.6B vs $24.16B est, EPS $2.46 vs $2.44 est) and guided 2026 revenue to $99.5-100.5B vs consensus $98.9B, signaling company is 'clearing the patent cliff' fears. Full-year 2025 sales $94.2B (+6%), adj EPS $10.79. Company signed TrumpRx.gov deal Jan 8 for 3-year tariff exemptions on pharma imports. Oncology and medtech divisions driving growth. Stock up 21.5% YTD as of Sept 2025 report, defying healthcare weakness.",
+      "sector": "Healthcare",
+      "sector_momentum": "Positive - XLV +1.32% last week",
+      "fundamentals": {
+        "market_cap": "~$575B",
+        "avg_daily_volume": "~7M shares",
+        "pe_ratio": "~16x forward",
+        "revenue_growth_yoy": "+6% 2025, guiding $99.5-100.5B 2026",
+        "last_earnings": "Beat Q4 2025, Jan 2026"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above",
+        "price_vs_200d_ma": "Above",
+        "52w_range": "$155-$186",
+        "premarket_volume": "N/A",
+        "current_price": "$231.73"
+      },
+      "price_levels": {
+        "entry": 232.00,
+        "stop": 215.00,
+        "target": 266.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction_score": 7,
+      "thesis": "Patent cliff overcome, strong guidance, medtech+pharma diversification, tariff exemption secured",
+      "watchlist_priority": false
+    },
+    {
+      "symbol": "ABBV",
+      "catalyst": "AbbVie is 3rd largest holding (7.10%) in XLV healthcare ETF (+1.32% last week). Company reported Q1 2026 results April 28: adj EPS $2.65 (+7.7% YoY), raised full-year guidance from $13.96-14.16 to $14.08-14.28. AbbVie presenting new oncology pipeline data at ASCO 2026 (American Society of Clinical Oncology conference May 21-22, 2026) demonstrating breadth of next-gen oncology portfolio including telisotuzumab adizutecan (ABBV-400) Phase 2 data in MET-amplified solid tumors. Allergan Aesthetics division also contributing growth.",
+      "sector": "Healthcare",
+      "sector_momentum": "Positive - XLV +1.32% last week",
+      "fundamentals": {
+        "market_cap": "~$403B",
+        "avg_daily_volume": "~7M shares",
+        "pe_ratio": "~16x forward",
+        "revenue_growth_yoy": "Mid-single digit",
+        "last_earnings": "Beat Q1 2026, April 28"
+      },
+      "technical_context": {
+        "price_vs_50d_ma": "Above",
+        "price_vs_200d_ma": "Above",
+        "52w_range": "$190-$235",
+        "premarket_volume": "N/A",
+        "current_price": "$228.70"
+      },
+      "price_levels": {
+        "entry": 229.00,
+        "stop": 212.00,
+        "target": 263.00,
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1",
+      "risk_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction_score": 7,
+      "thesis": "Raised 2026 guidance, ASCO conference catalyst May 21-22, oncology pipeline advancing",
+      "watchlist_priority": false
+    }
+  ],
+  "summary": {
+    "universe_construction": "10 tickers: 1 earnings catalyst (BJ), 4 tech/semiconductor (NVDA, AAPL, MCHP from XLK +5.78% last week), 3 energy (XOM, CVX, COP from XLE +3.79%), 3 healthcare (LLY, JNJ, ABBV from XLV +1.32%). Sector momentum driving 9 of 10 selections. No megacap included without catalyst per rules.",
+    "top_conviction": ["MCHP (8/10)", "NVDA (8/10)", "LLY (8/10)"],
+    "catalyst_quality": "Strong - 1 confirmed earnings today (BJ), 3 sector ETFs with weekly momentum, recent analyst upgrades (MCHP), recent earnings beats (AAPL, LLY, JNJ, ABBV, MCHP), conference catalyst (ABBV ASCO).",
+    "risk_assessment": "COP has recent earnings miss flag. BJ has pre-market gap fade risk. MCHP is analyst-only catalyst (no fundamental event). All others clean.",
+    "market_environment": "S&P 500 sector rotation into Tech (XLK +5.78%) and Energy (XLE +3.79%) after May 17 CPI selloff. Healthcare (XLV +1.32%) showing relative strength. Tech still dominant per Goldman 2026 target S&P 7600."
+  }
+}
