@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-25",
+  "workflow": "B",
+  "agent": "Perplexity",
+  "generated_at_ct": "08:05",
+  "status": "SUCCESS",
+  "claude_ran": false,
+  "proposals_audited": 0,
+  "vetoes": [],
+  "approved": [],
+  "conviction_downgrades": [],
+  "macro_context": {
+    "geopolitical_risk_today": "low",
+    "geopolitical_notes": "US Memorial Day holiday — NYSE and Nasdaq are closed all day. No pre-market session, no regular session, no execution possible. Workflow A did not run (research/2026-05-25.json does not exist on GitHub, confirmed). Claude did not propose any trades. Overnight global macro picture is calm: no emergency central bank actions detected, no new major geopolitical escalations in last 24 hours. Background risk remains elevated (trade tensions, Middle East uncertainty per S&P Global April brief) but no acute overnight shock. UK and European markets open normally today; their sessions not relevant as no US trades are possible.",
+    "economic_release_surprises": [],
+    "vix_current": null,
+    "spy_premarket_change_pct": null,
+    "held_position_news": []
+  },
+  "notes": "Memorial Day 2026 — US markets closed per NYSE official holiday calendar (Monday May 25, 2026). This is a mandatory HOLD day. No trades can be executed by Manus today. Workflow A research file absent from GitHub as expected. No COP entries with Status=Proposed exist for today. Audit file written per Rule #0 to confirm Workflow B ran and to prevent Manus from misreading a missing file as ambiguous. Next trading day: Tuesday May 26, 2026 — Workflow A should resume normally at 7:00 AM CT."
+}
