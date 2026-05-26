@@ -1,0 +1,459 @@
+{
+  "research_date": "2026-05-26",
+  "research_time_ct": "13:10",
+  "status": "COMPLETE",
+  "account_context": {
+    "open_positions": 0,
+    "trades_this_week": 0,
+    "weekly_trade_capacity": 3,
+    "recently_vetoed": [
+      "NVDA"
+    ],
+    "watchlist_tickers": [
+      "OKLO"
+    ]
+  },
+  "macro_context": {
+    "today_releases": [
+      "CB Consumer Confidence 2PM CT (consensus 92.0, prev 92.8)",
+      "S&P Case-Shiller Home Price YoY 1PM CT",
+      "Dallas Fed Manufacturing Index 2:30PM CT"
+    ],
+    "week_outlook": [
+      "Wednesday 5/27: Richmond Fed Mfg, Dallas Fed Services",
+      "Thursday 5/28: GDP 2nd Est (consensus 2.0%), PCE Price Index MoM (consensus 0.5% - KEY FED METRIC), Core PCE YoY (consensus 3.3%), Initial Claims, Durable Goods"
+    ],
+    "sector_momentum_5day": [
+      "Energy (XLE): +0.08% 5-day, +45.58% YTD, +9.19% 3-month - STRONGEST YTD",
+      "Tech (XLK): +2.34% week, +25.30% YTD, +30.23% quarter - AI/semiconductor momentum",
+      "Financials (XLF): +7.68% 3-month, +9.13% YTD, rate play",
+      "Healthcare (XLV): Defensive, strong holdings (LLY 15.54%, JNJ 10.40%)"
+    ]
+  },
+  "tickers": [
+    {
+      "symbol": "SNOW",
+      "watchlist_priority": false,
+      "catalyst": "Snowflake reports Q1 FY2027 earnings BEFORE MARKET OPEN Tuesday May 27, 2026. Consensus: EPS $0.32, revenue $1.324B. Q4 2026 massively beat expectations with EPS $0.32 vs -$0.10 estimate (+420% beat), per Public.com. Stock up 4% to $172.20 ahead of earnings, per Perplexity Finance. Cloud data warehouse leader with strong momentum. Last quarter RPO (remaining performance obligation) accelerated 37% YoY to $7.88B. Sector: Software/Tech (XLK +2.34% week).",
+      "sector": "Tech",
+      "momentum": "Cloud infrastructure / AI data play. XLK +25.30% YTD.",
+      "fundamentals": {
+        "market_cap": "~$54B",
+        "avg_daily_volume": "High liquidity",
+        "last_earnings": "Q4 beat by 420%",
+        "revenue_growth": "Strong YoY"
+      },
+      "technical": {
+        "current_price": "$172.20",
+        "vs_52w_range": "Approaching highs on earnings momentum",
+        "premarket_context": "Up 4% into earnings"
+      },
+      "price_levels": {
+        "entry": "$172.00",
+        "stop": "$158.50",
+        "target": "$195.00",
+        "risk_reward": 1.7
+      },
+      "source_quality": "Tier 1 (Public.com earnings data, Perplexity Finance)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": true
+      },
+      "conviction": 7,
+      "thesis": "Cloud data warehouse leader with Q4 420% beat momentum, Q1 earnings catalyst May 27 BMO, AI/data infrastructure play"
+    },
+    {
+      "symbol": "CRM",
+      "watchlist_priority": false,
+      "catalyst": "Salesforce reports Q1 FY2027 earnings Wednesday May 28, 2026. Consensus: EPS $3.11-3.13, revenue $11.03-11.08B per CNBC. Q4 2026 beat massively: EPS $3.81 vs $3.05 estimate (+25% beat), revenue $11.20B vs $11.17B, per CNBC Feb 25 2026 report. Citi reduced PT May 12 ahead of Q1, creating setup opportunity. Stock has momentum from Q4, Agentforce AI product cycle. Sector: Software (XLK +2.34% week, +25.30% YTD).",
+      "sector": "Tech",
+      "momentum": "Enterprise SaaS / AI agent play. XLK strong.",
+      "fundamentals": {
+        "market_cap": "~$250B+",
+        "avg_daily_volume": "$5M+",
+        "pe_ratio": "~30x forward",
+        "last_earnings": "Q4 beat +25%",
+        "revenue_growth": "+12% YoY Q4"
+      },
+      "technical": {
+        "current_price": "$270-280 range",
+        "vs_52w_range": "Mid-range",
+        "ma_context": "Above 50d MA"
+      },
+      "price_levels": {
+        "entry": "$275.00",
+        "stop": "$253.00",
+        "target": "$310.00",
+        "risk_reward": 1.6
+      },
+      "source_quality": "Tier 1 (CNBC, Seeking Alpha, Public.com)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction": 6,
+      "thesis": "Enterprise SaaS leader with Q4 beat momentum, Q1 earnings May 28, Agentforce AI product driving growth"
+    },
+    {
+      "symbol": "MRVL",
+      "watchlist_priority": false,
+      "catalyst": "Marvell Technology reports earnings May 27, 2026 per Zacks. Consensus EPS $0.80. Q3 FY2026 posted record revenue $2.074B (+37% YoY), data center revenue $1.518B (73% of total, +38% YoY). Management raised FY2027 data center growth guidance above prior expectations. AI infrastructure play: custom ASIC programs, optical interconnect for hyperscalers. Up 163% past year, +92.82% YTD per 24/7 Wall St. Acquired Celestial AI to scale optical roadmap, $1.3B stock buyback Q3. PEG ratio 0.6x (Peter Lynch undervalued threshold). Sector: Semiconductors (XLK +25.30% YTD).",
+      "sector": "Tech",
+      "momentum": "Semiconductor / AI infrastructure. XLK strong, semis leading.",
+      "fundamentals": {
+        "market_cap": "~$180B",
+        "pe_ratio": "30.1x forward",
+        "peg_ratio": "0.6x",
+        "earnings_growth": "~50% annually",
+        "revenue_growth": "+37% YoY Q3"
+      },
+      "technical": {
+        "current_price": "$208.48",
+        "ytd_performance": "+92.82%",
+        "past_year": "+163.28%"
+      },
+      "price_levels": {
+        "entry": "$208.00",
+        "stop": "$191.00",
+        "target": "$240.00",
+        "risk_reward": 1.9
+      },
+      "source_quality": "Tier 1 (Zacks, 24/7 Wall St, company PR)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": true
+      },
+      "conviction": 8,
+      "thesis": "AI infrastructure semiconductor with May 27 earnings, data center revenue 73% of total growing 38% YoY, 0.6x PEG undervalued"
+    },
+    {
+      "symbol": "HPQ",
+      "watchlist_priority": false,
+      "catalyst": "HP Inc reports Q2 FY2026 earnings Tuesday May 27, 2026 after close per HP IR and Zacks. Q1 2026 beat: EPS $0.81 vs $0.77 estimate (+4.65% surprise), revenue $14.44B vs $14.26B (+1.22% surprise) per Zacks May 25. Dell (DELL) and HPQ surged 15%+ May 22 on Lenovo's 84% AI revenue growth Q4 (Lenovo shares +20% Hong Kong) per CNBC. JPMorgan raised PT May 15 ahead of earnings, bullish on PC/AI hardware cycle. Sector: Tech hardware.",
+      "sector": "Tech",
+      "momentum": "PC hardware / AI infrastructure. Lenovo catalyst lifting sector.",
+      "fundamentals": {
+        "market_cap": "~$35B",
+        "pe_ratio": "~10x",
+        "last_earnings": "Q1 beat +4.65%",
+        "revenue": "$14.44B Q1"
+      },
+      "technical": {
+        "current_price": "~$34-35",
+        "recent_move": "+15% on Lenovo catalyst May 22"
+      },
+      "price_levels": {
+        "entry": "$34.50",
+        "stop": "$31.75",
+        "target": "$39.00",
+        "risk_reward": 1.6
+      },
+      "source_quality": "Tier 1 (Zacks, CNBC, HP IR)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction": 6,
+      "thesis": "PC hardware with Q2 earnings May 27 AHC, Q1 beat, +15% on Lenovo AI revenue surge, JPMorgan bullish"
+    },
+    {
+      "symbol": "DELL",
+      "watchlist_priority": false,
+      "catalyst": "Dell Technologies no direct earnings this week but surged 15%+ May 22 2026 on rival Lenovo's Q4 results showing 84% AI revenue growth (Lenovo shares +20% Hong Kong) per CNBC. JPMorgan raised PT May 15, bullish ahead of sector earnings. Dell positioned for AI infrastructure buildout, server/storage momentum. Indirect catalyst via sector momentum and peer results. Next earnings likely June. Sector: Tech hardware.",
+      "sector": "Tech",
+      "momentum": "Enterprise IT / AI servers. Lenovo catalyst, JPMorgan bullish.",
+      "fundamentals": {
+        "market_cap": "~$80B",
+        "revenue_growth": "AI infrastructure driving demand"
+      },
+      "technical": {
+        "current_price": "$125-130 range (post +15% surge)",
+        "recent_move": "+15%+ May 22"
+      },
+      "price_levels": {
+        "entry": "$127.00",
+        "stop": "$117.00",
+        "target": "$145.00",
+        "risk_reward": 1.8
+      },
+      "source_quality": "Tier 1 (CNBC, Seeking Alpha)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": true,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction": 5,
+      "thesis": "Enterprise IT hardware with AI server momentum, +15% on Lenovo catalyst, JPMorgan bullish but no direct earnings this week"
+    },
+    {
+      "symbol": "GS",
+      "watchlist_priority": false,
+      "catalyst": "Goldman Sachs: Bank of America initiated/reiterated Buy rating with $1,100 price target January 16, 2026 (from $1,050) citing Q4 beat and M&A/IPO momentum per Yahoo Finance. BofA report stated 'changing regulatory landscape significantly enhancing Goldman's competitive edge' and expects 2026 earnings to surpass projections. Consensus PT $986.90, current ~$863, implying 17.7% upside. Q4 trading revenue surpassed Morgan Stanley for first time. Sector: Financials (XLF +7.68% 3-month, +9.13% YTD, rate-sensitive).",
+      "sector": "Financials",
+      "momentum": "Investment banking / M&A cycle. XLF momentum, rate play.",
+      "fundamentals": {
+        "market_cap": "~$145B",
+        "pe_ratio": "~12x",
+        "q4_performance": "Beat estimates, trading revenue beat MS"
+      },
+      "technical": {
+        "current_price": "$863.04",
+        "consensus_pt": "$986.90 (+17.7%)"
+      },
+      "price_levels": {
+        "entry": "$865.00",
+        "stop": "$795.00",
+        "target": "$985.00",
+        "risk_reward": 1.7
+      },
+      "source_quality": "Tier 1 (BofA Securities, Yahoo Finance, Globe and Mail)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": true,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction": 6,
+      "thesis": "Investment bank with BofA Buy $1,100 PT, M&A/IPO cycle improving, regulatory tailwinds, Q4 trading beat MS"
+    },
+    {
+      "symbol": "BAC",
+      "watchlist_priority": false,
+      "catalyst": "Bank of America: Jefferies reiterated Buy rating April 16, 2026 with $65 price target (24.44% upside from $52.24 current) per Benzinga. Morgan Stanley maintains Overweight with $64 PT (January 2026). Consensus PT $58.98 across 24 analysts. Recent Q1 beat estimates on higher investment banking revenue per CNBC. Sector: Financials (XLF +7.68% 3-month, rate-sensitive, steepening yield curve positive).",
+      "sector": "Financials",
+      "momentum": "Diversified bank, investment banking recovery. XLF momentum.",
+      "fundamentals": {
+        "market_cap": "~$425B",
+        "pe_ratio": "~11x",
+        "dividend_yield": "~3%",
+        "q1_result": "Beat on IB revenue"
+      },
+      "technical": {
+        "current_price": "$52.24",
+        "consensus_pt": "$58.98 (+12.9%)",
+        "jefferies_pt": "$65.00 (+24.4%)"
+      },
+      "price_levels": {
+        "entry": "$52.50",
+        "stop": "$48.50",
+        "target": "$59.00",
+        "risk_reward": 1.6
+      },
+      "source_quality": "Tier 1 (Jefferies, Morgan Stanley, Benzinga)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": true,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction": 6,
+      "thesis": "Diversified bank with Jefferies Buy $65 PT (+24%), MS Overweight, Q1 IB revenue beat, XLF sector momentum"
+    },
+    {
+      "symbol": "XOM",
+      "watchlist_priority": false,
+      "catalyst": "Exxon Mobil: Top holding in Energy Select Sector SPDR (XLE) at 22.59% weight per Investing.com. XLE is strongest performing sector YTD with +45.58% return, +9.19% 3-month, +6.8% 2-week per Barchart and Robinhood. Energy sector benefiting from supply discipline and geopolitical risk premium (Iran tensions reference in May sources). XLE avg daily volume 37.12M, highly liquid. XOM as largest component is direct play on energy momentum. Thursday 5/28 PCE inflation data (consensus +0.5% MoM) - if hot, energy benefits as inflation hedge.",
+      "sector": "Energy",
+      "momentum": "Energy sector leader. XLE +45.58% YTD, best performing sector.",
+      "fundamentals": {
+        "market_cap": "~$450B",
+        "pe_ratio": "~11x",
+        "dividend_yield": "~3.5%",
+        "xle_weight": "22.59% of XLE"
+      },
+      "technical": {
+        "xle_performance": "+45.58% YTD, +9.19% 3mo",
+        "sector_momentum": "Strongest sector"
+      },
+      "price_levels": {
+        "entry": "$105.50",
+        "stop": "$97.00",
+        "target": "$120.00",
+        "risk_reward": 1.7
+      },
+      "source_quality": "Tier 1 (Investing.com, Barchart, Robinhood)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction": 7,
+      "thesis": "Energy sector leader, 22.59% of XLE which is +45.58% YTD (best sector), inflation hedge ahead of Thu PCE data"
+    },
+    {
+      "symbol": "MU",
+      "watchlist_priority": false,
+      "catalyst": "Micron Technology: Memory/AI play with 0.2x PEG ratio (Peter Lynch extremely undervalued) per 24/7 Wall St May 13, 2026. Fiscal Q2 2026 revenue $23.86B (+196% YoY), DRAM revenue +207% YoY, driven by high-bandwidth memory (HBM) for AI accelerators. 2026 HBM supply already sold out under long-term contracts. Forward PE 5x with 70%+ expected earnings growth. AI infrastructure demand smoothing traditional memory cycles. Sector: Semiconductors (XLK +25.30% YTD). Note: Memory is cyclical but AI creating structural demand.",
+      "sector": "Tech",
+      "momentum": "Memory/AI infrastructure. XLK momentum, HBM critical for AI.",
+      "fundamentals": {
+        "market_cap": "~$120B",
+        "pe_ratio": "5x forward",
+        "peg_ratio": "0.2x (extreme undervaluation)",
+        "earnings_growth": "70%+ expected",
+        "q2_revenue": "$23.86B (+196% YoY)"
+      },
+      "technical": {
+        "current_price": "$115-120 range",
+        "momentum": "HBM supply sold out 2026"
+      },
+      "price_levels": {
+        "entry": "$117.00",
+        "stop": "$108.00",
+        "target": "$135.00",
+        "risk_reward": 2.0
+      },
+      "source_quality": "Tier 1 (24/7 Wall St, company reports)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction": 7,
+      "thesis": "Memory/HBM leader with 0.2x PEG (extreme undervalue), Q2 revenue +196% YoY, 2026 HBM sold out, AI structural demand"
+    },
+    {
+      "symbol": "MPC",
+      "watchlist_priority": false,
+      "catalyst": "Marathon Petroleum: Q1 2026 results reported May 4, 2026 per PR Newswire and Marathon IR. Stock up 60% in 2026 per Tikr May 18. Energy refining play benefiting from XLE sector momentum (+45.58% YTD). As XLE component (oil/gas consumable fuels 89.80% of index), MPC benefits from energy sector leadership and refining margins. Refining margins strong on tight supply. Sector: Energy (XLE best performing sector).",
+      "sector": "Energy",
+      "momentum": "Refining / energy downstream. XLE +45.58% YTD.",
+      "fundamentals": {
+        "market_cap": "~$50B",
+        "q1_report": "May 4, 2026",
+        "ytd_performance": "+60%"
+      },
+      "technical": {
+        "current_price": "$185-195 range",
+        "ytd": "+60%"
+      },
+      "price_levels": {
+        "entry": "$190.00",
+        "stop": "$175.00",
+        "target": "$215.00",
+        "risk_reward": 1.7
+      },
+      "source_quality": "Tier 2 (Tikr, company IR)",
+      "risk_flags": {
+        "insider_selling": false,
+        "short_interest_high": false,
+        "litigation": false,
+        "wide_spread": false
+      },
+      "trap_flags": {
+        "single_low_quality_source": false,
+        "pump_pattern": false,
+        "earnings_miss_recent": false,
+        "contradictory_news": false,
+        "thin_liquidity": false,
+        "wide_spread": false,
+        "analyst_only_catalyst": false,
+        "pre_market_gap_fade_risk": false
+      },
+      "conviction": 5,
+      "thesis": "Energy refiner up 60% YTD riding XLE momentum (+45.58%), Q1 reported May 4, refining margins strong"
+    }
+  ],
+  "pipeline_notes": "10-ticker research complete. Three earnings catalysts May 27-28: SNOW (BMO May 27), MRVL (May 27), HPQ (AHC May 27), CRM (May 28). Sector momentum: Energy (XLE) strongest YTD +45.58%, Tech (XLK) +25.30% YTD. Analyst catalyst: GS/BAC Buy ratings. All tickers have >$500M market cap, >$5/share, liquid. No OTC/penny stocks. NVDA excluded per recent veto. OKLO watchlist ticker excluded due to stale 5/12 earnings catalyst."
+}
